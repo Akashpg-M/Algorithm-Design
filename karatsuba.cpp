@@ -40,5 +40,4 @@ int karatsuba(int n1, int n2){
   int res = ac * pow(10, 2*h) + ad_plus_bc * pow(10, h) + bd;
 
   return res;
-
 }
